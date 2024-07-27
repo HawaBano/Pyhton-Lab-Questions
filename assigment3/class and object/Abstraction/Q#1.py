@@ -1,4 +1,6 @@
-# Create an abstract class Shape with an abstract method calculate_area. Implement subclasses Circle, Rectangle, and Square that provide concrete implementations of calculate_area.
+# Create an abstract class Shape with an abstract method 
+# 
+# calculate_area. Implement subclasses Circle, Rectangle, and Square that provide concrete implementations of calculate_area.
 from abc import ABC, abstractmethod
 import math
 
